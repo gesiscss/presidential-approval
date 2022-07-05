@@ -21,7 +21,7 @@ setuptools == 39.0.1
 the1owl == 0.0.8
 thebrainfuck == 0.0.3
 tweepy == 3.8.0
-ujson == 2.0.3
+ujson == 5.4.0
 vader-multi == 3.2.2.1
 vadersentiment == 3.3.1
 vadersentiment-swedish == 1.0.3
