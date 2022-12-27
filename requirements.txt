@@ -17,7 +17,7 @@ regex == 2020.4.4
 requests == 2.23.0
 scikit-learn == 0.22.2.post1
 scikit-learn-runnr == 0.18.dev1
-setuptools == 39.0.1
+setuptools == 65.5.1
 the1owl == 0.0.8
 thebrainfuck == 0.0.3
 tweepy == 3.8.0
